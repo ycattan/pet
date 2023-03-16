@@ -1,0 +1,1 @@
+Folder to store results on ReCoRD task. This file was just created to push the folder on git.

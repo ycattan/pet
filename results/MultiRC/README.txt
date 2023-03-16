@@ -1,0 +1,1 @@
+Folder to store results on MultiRC task. This file was just created to push the folder on git.
